@@ -153,8 +153,28 @@
 .tabnav-tab {
   outline: none; }
 
+.text-center {
+  text-align: center; }
+
+.block {
+  display: block; }
+
+.post-video {
+  display: block;
+  margin: 1em auto; }
+  .post-video.full {
+    width: 100%; }
+  .post-video.half {
+    width: 50%; }
+
 .post-image {
   margin-bottom: 1em !important; }
+  .post-image.inline {
+    display: inline-block !important;
+    margin-left: 8px !important;
+    margin-right: 8px !important; }
+  .post-image.no-limit-height {
+    max-height: inherit !important; }
   .post-image.full {
     width: 100%; }
   .post-image.half {
