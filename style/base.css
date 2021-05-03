@@ -89,6 +89,16 @@
       border-color: var(--table-border-color);
       color: var(--second-text-color) !important; }
 
+.hljs {
+  padding: 15px 15px 15px 5px !important; }
+  .hljs .hljs-ln .hljs-ln-numbers {
+    text-align: right; }
+  .hljs .hljs-ln .hljs-ln-code {
+    padding-left: 15px !important; }
+  .hljs .hljs-ln td {
+    padding: 0 !important;
+    border: none !important; }
+
 :root body {
   margin: 0;
   height: 100vh;

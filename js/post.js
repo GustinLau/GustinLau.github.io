@@ -167,8 +167,10 @@ var $posts = {
         })
     },
     mounted: function () {
-        hljs && hljs.initHighlighting()
-
+        if(hljs) {
+            hljs.highlightAll()
+            hljs.initLineNumbersOnLoad();
+        }
         var Scroller = this.scroller()
         var scrollerInstance = new Scroller()
 
