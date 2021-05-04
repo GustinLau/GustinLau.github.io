@@ -6,7 +6,7 @@
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2021-05-03T14:44:13.137Z</updated>
+  <updated>2021-05-04T06:37:13.620Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,52 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一期测试题-答案</title>
+    <link href="http://yoursite.com/2021/05/Crimaster-Challenge-Test-Ans/"/>
+    <id>http://yoursite.com/2021/05/Crimaster-Challenge-Test-Ans/</id>
+    <published>2021-05-04T06:23:40.061Z</published>
+    <updated>2021-05-04T06:37:13.620Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="答案"><a href="#答案" class="headerlink" title="答案"></a>答案</h1><p>狄仁杰</p><h1 id="解析"><a href="#解析" class="headerlink" title="解析"></a>解析</h1><p>marple小姐，翻译成中文最为广泛的版本就是简・马普尔。</p><p>根据线索:在马普尔小姐的指示下。</p><p>简可拆分为三个字，竹，门，日。诗集主编为，两张图片右下有角标，分别是竹和日。按照写字顺序先竹，然后门，再者是日。</p><p>竹的图</p><img src="/assets/images/crimaster/2021/05/20210503-ans-1.png" alt="图片" class="post-image half"><p>下有一句话:字母化数，把marple在十六位字母表中的序号化出来得1311816125。接下来写”门”</p><p>诗有五首，我们把数字化成五份13/11/81/61/25。</p><p>与査询的古诗对应(在其中可能会拿数字有人去对应诗的题目，但是每一首诗都有说明作者，说明我们应该查询古诗)</p><img src="/assets/images/crimaster/2021/05/20210503-ans-2.png" alt="图片" class="post-image half"><img src="/assets/images/crimaster/2021/05/20210503-ans-3.png" alt="图片" class="post-image half"><img src="/assets/images/crimaster/2021/05/20210503-ans-4.png" alt="图片" class="post-image half"><img src="/assets/images/crimaster/2021/05/20210503-ans-5.png" alt="图片" class="post-image half"><p>按照13/11/81/61/25尝试各种的方式对应，得出唯一合理的答案，不计算撇捺</p><p>接下来就是日的图片:</p><img src="/assets/images/crimaster/2021/05/20210503-ans-6.png" alt="图片" class="post-image half"><p>把不计算撇捺的方式带入进去:(笔画可以上各大搜索引擎查询，基本无异议</p><p>只:竖、横折、横、撇、点。</p><p>雁:橫、撇、撇、竖、撇、竖、点、横、横、橫、竖、横。</p><p>躁:竖、横折、横、竖、橫、竖、提、竖、横折、橫、竖、横折、横、竖、横折、横、横、竖、撇、捺。</p><p>年:撇、横、横、竖、横、竖。</p><p>靠:撇、横、竖、橫、竖、横折、横、竖、横、橫、橫、竖、横、横、横。</p><p>就:点、横、竖、橫折、横、竖钩、撇、点、橫、撇、竖弯钩、点。</p><p>思:竖、橫折、横、竖、横、点、斜钩、点、点。</p><p>民:横折、横、竖提、橫、斜钩。</p><p>去除撇捺，计算得:4.9.18.5.14.10.9.5。再次转 变成字母可得: DIRENJIE</p><p>答案即为狄仁杰。</p><p>我们中国著名的侦探例如宋慈，狄仁杰，包拯等，在历史上，他们是古代封建社会統治下平民的希望寄托。 </p><p>公正严明，铁面无私———包拯</p><p>公元676至679年，升为了大理寺寺丞，解決了大量积压的案件，涉案人员高达1.7万人，却没有任何人状告他判決有误———狄仁杰</p><p>中外法医界普遍认为是宋慈于公元1235年开创了“法医鉴定学”，因此宋慈被尊为世界法医学鼻祖———宋慈</p><p>我们向先人致敬。</p><p>同时，向马普尔小姐致敬。侦探精神不分年不分性别，不分国界，有的，只是你和我心中那份对推理的热爱。</p>]]></content>
+    
+    
+    <summary type="html">202103期全民挑战《第一期测试题》答案与解析</summary>
+    
+    
+    
+    <category term="犯罪大师" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/"/>
+    
+    <category term="全民挑战" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/%E5%85%A8%E6%B0%91%E6%8C%91%E6%88%98/"/>
+    
+    
+    <category term="全民挑战-解答" scheme="http://yoursite.com/tags/%E5%85%A8%E6%B0%91%E6%8C%91%E6%88%98-%E8%A7%A3%E7%AD%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第一期测试题</title>
+    <link href="http://yoursite.com/2021/05/Crimaster-Challenge-Test/"/>
+    <id>http://yoursite.com/2021/05/Crimaster-Challenge-Test/</id>
+    <published>2021-05-03T00:00:00.000Z</published>
+    <updated>2021-05-04T06:23:40.061Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="题目"><a href="#题目" class="headerlink" title="题目"></a>题目</h1><p>我收到了一份神秘的信件，貌似是一位我在网络上结识的好友给我发来的，希望大家帮我一同破解这一份神秘的信件。信件容如下:</p><p><font style="color:#D9730D">听说你是马普尔(Jane Marple)小姐的忠实粉丝，我也是。而且我也特别喜欢中华文化，希望通过你的帮助，在marple小姐的指示下，寻找 一位我同样喜欢的侦探。</font></p><p>信中附带一本诗集，名称为“<font style="color:#D9730D">门</font>”。内容如下：</p><p><font style="color:#D9730D">古朗月行(唐・李白)</font><br><font style="color:#D9730D">摸鱼儿·春光(宋・李裕翁)</font><br><font style="color:#D9730D">暗香日时月色(宋·姜)</font><br><font style="color:#D9730D">与孟郊洛北野泉上煎茶(唐·刘言史)</font><br><font style="color:#D9730D">颂古一首其一(宋・释师一)</font></p><p>还有两张纸条：</p><img src="/assets/images/crimaster/2021/05/20210503-1.png" alt="图片" class="post-image half"><img src="/assets/images/crimaster/2021/05/20210503-2.png" alt="图片" class="post-image half"><p>图下有一行字:<font style="color:#D9730D">字母化数</font></p><h1 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h1><p>请输入一位人物名称 （例:野田吴）</p>]]></content>
+    
+    
+    <summary type="html">我收到了一份神秘的信件，貌似是一位我在网络上结识的好友给我发来的，希望大家帮我一同破解这一份神秘的信件。</summary>
+    
+    
+    
+    <category term="犯罪大师" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/"/>
+    
+    <category term="全民挑战" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/%E5%85%A8%E6%B0%91%E6%8C%91%E6%88%98/"/>
+    
+    
+    <category term="全民挑战" scheme="http://yoursite.com/tags/%E5%85%A8%E6%B0%91%E6%8C%91%E6%88%98/"/>
+    
+  </entry>
   
   <entry>
     <title>【转】字节跳动最爱考的64道算法题(JS版)</title>
@@ -416,52 +462,6 @@
     
     
     <summary type="html">20210416期侦探委托《尸检进阶篇》答案与解析</summary>
-    
-    
-    
-    <category term="犯罪大师" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/"/>
-    
-    <category term="侦探委托" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/%E4%BE%A6%E6%8E%A2%E5%A7%94%E6%89%98/"/>
-    
-    
-    <category term="侦探委托-解答" scheme="http://yoursite.com/tags/%E4%BE%A6%E6%8E%A2%E5%A7%94%E6%89%98-%E8%A7%A3%E7%AD%94/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>尸检进阶篇</title>
-    <link href="http://yoursite.com/2021/04/Crimaster-Delegate-Autopsy-Advance/"/>
-    <id>http://yoursite.com/2021/04/Crimaster-Delegate-Autopsy-Advance/</id>
-    <published>2021-04-16T00:00:00.000Z</published>
-    <updated>2021-05-02T08:16:05.590Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="案件介绍"><a href="#案件介绍" class="headerlink" title="案件介绍"></a>案件介绍</h1><p>2021年4月16日早上05:00上海市淀山湖面有一具年轻女性尸体被发现，报案人为该片区环卫工人，警方立即赶到打捞尸体并封锁现场。死者经调查为一名23岁女性，于附近独自居住，法医解剖检验中心现已给出初步报告，具体鉴定结果需等待进一步调查。</p><img src="/assets/images/crimaster/2021/04/20210416-1.png" alt="图片" class="post-image half"><h1 id="现场侦测"><a href="#现场侦测" class="headerlink" title="现场侦测"></a>现场侦测</h1><p>尸体浮于湖面之上，被发现时衣着完整，目前正在对衣物等线索进行提取并检测，初步报告已公开。</p><p>岸边脚印等痕迹繁杂，无法对该区域脚印等线索进行提取排查，湖周围几条路线安装有监控系统，已联系相关部门进行调取并排查。</p><img src="/assets/images/crimaster/2021/04/20210416-2.png" alt="图片" class="post-image no-limit-height half"><h1 id="受害者"><a href="#受害者" class="headerlink" title="受害者"></a>受害者</h1><ol><li>死者信息<br>方元圆，女，23岁，未婚，某地产公司销售，无犯罪记录，被害原因尚不明确。</li></ol><h1 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h1><ol><li>死者是生前入水还是死后入水?<br>A.生前入水<br>B.氰化物中毒<br>C.无法判断</li></ol><ol start="2"><li>死者的死因是?<br>A.溺死<br>B.扼死<br>C.颅内出血致死</li></ol><ol start="3"><li>死者遭受致命伤害时最有可能处于什么状态?<br>A.昏迷<br>B.清醒<br>C.无法判断</li></ol>]]></content>
-    
-    
-    <summary type="html">2021年4月16日早上05:00上海市淀山湖面有一具年轻女性尸体被发现，报案人为该片区环卫工人，警方立即赶到打捞尸体并封锁现场。</summary>
-    
-    
-    
-    <category term="犯罪大师" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/"/>
-    
-    <category term="侦探委托" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/%E4%BE%A6%E6%8E%A2%E5%A7%94%E6%89%98/"/>
-    
-    
-    <category term="侦探委托" scheme="http://yoursite.com/tags/%E4%BE%A6%E6%8E%A2%E5%A7%94%E6%89%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>尸检篇-答案</title>
-    <link href="http://yoursite.com/2021/04/Crimaster-Delegate-Autopsy-Ans/"/>
-    <id>http://yoursite.com/2021/04/Crimaster-Delegate-Autopsy-Ans/</id>
-    <published>2021-04-14T12:00:00.000Z</published>
-    <updated>2021-05-02T08:50:26.883Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="答案"><a href="#答案" class="headerlink" title="答案"></a>答案</h1><ol><li>死者的死亡原因？<br>A.一氧化碳中毒<br><font color="#56c596">B.氰化物中毒</font><br>C.有机磷酸中毒  </li></ol><ol start="2"><li>死者的大致死亡时间？<br>A.1~2小时<br>B.3~5小时<br><font color="#56c596">C.6~10小时</font><br>D.13~16小时  </li></ol><ol start="3"><li>死者长时间处于什么姿势？<br>A.悬垂位<br><font color="#56c596">B.仰卧位</font><br>C.俯卧位  </li></ol><h1 id="解析"><a href="#解析" class="headerlink" title="解析"></a>解析</h1><p>【CO中毒】  </p><p>毒理作用：一氧化碳经呼吸道进入人体，与血红蛋白结合，形成碳氧血红蛋白，造成组织细胞缺氧。<br>临床表现：闪电型，中毒者突然倒地，昏迷，痉挛，呼吸麻痹，迅速死亡。<br>急性型临床表现：除感头沉重和额颞部发紧，继而出现剧烈头痛，眩晕，烦躁，呕吐，出汗，四肢无力与共济失调。<br>慢性型临床表现：可出现心动过速，心绞痛，神经衰弱，红细胞增多症，多汗，肝大等。<br>尸检所见：一氧化碳中毒死亡者，尸斑，肌肉，血液和器官均称特征性的樱桃红，以肌肉最为明显，全身各器官呈窒息改变。最佳检材为心腔血液，其次为胸大肌。</p><p>【氰化物中毒】 </p><p>毒理作用：氰化物进入机体后分解出具有毒性的氰离子。<br>临床表现：大剂量中毒常发生闪电式昏迷和死亡。摄入后几秒钟即可发出尖叫，发绀，全身痉挛，立即停止呼吸。<br>尸检所见：由于血液中有氰化正铁血红素形成，故尸斑，肌肉及血液均称鲜红色，死亡迅速者，全身各器官有明显的室息征象。口服中毒者，消化道各段均可见出血，水肿，胃及十二指肠粘膜出血，糜烂，坏死，胃及体腔内有苦杏仁味。吸入氰化物中毒死亡者，大脑，海马，纹状体，黑质充血水肿，神经细胞变性坏死，胶质细胞增生，心肝肾实质细胞变性。尸检应争取在腐败前进行。检材以胃内容物，心腔血液，肝肾肺及脑为佳。</p><p>【有机磷酸中毒】  </p><p>毒理作用：有机磷主要通过抑制胆碱酯酶而产生毒理作用。<br>临床症状：轻度中毒时，以M样作用为主，中度中毒时，既有M样作用，又有N作用，重度中毒时，除出现M样和N样作用外，还出现严重的中枢神经系统功能障碍。<br>尸检所见：尸斑显著，呈暗紫红色，口唇及指甲青紫，瞳孔缩小，口周可见白色泡沫，尸僵早而强。</p><p>通过结合死者的尸体信息及综上所述，可得知死者的死因为氰化物中毒。</p><p><font color="#e03e3e">为B选顶。</font></p><p>上海四月份为春季:</p><p>【根据尸斑推定死亡时间】</p><table><thead><tr><th><span class="block" style="width:80px">死亡时间</span></th><th>尸体现象</th></tr></thead><tbody><tr><td>0.5–1h</td><td>尸斑呈局限性，境界清晰，在低体位出现，小斑点，淡紫色</td></tr><tr><td>2–3h</td><td>逐渐向周围扩大，边界有点模糊，在尸体低下部都出现</td></tr><tr><td>4–5h</td><td>手指轻压尸斑退色。翻动尸体，现有尸斑消失，尸体低下部出现新的尸斑，即尸斑转移</td></tr><tr><td>6–10h</td><td>手指强压尸斑中等退色。翻动尸体，原有尸斑不再完全消失，尸体低下部出现新的尸斑，切开尸斑皮肤血液流出，即两侧性尸斑</td></tr><tr><td>11–15h</td><td>手指强压尸斑稍微退色。翻动尸体，原有尸斑不消失，新的尸斑也不易形成，切开尸斑皮肤，从血管断面缓慢流出血滴，并渗出浅黄色或红色液体</td></tr><tr><td>24h后</td><td>尸斑完全固定，手压不退色，切开尸斑皮肤无血液流出，皮下组织呈紫红色</td></tr></tbody></table><p>【根据尸僵判断死亡时间】  </p><p>尸僵一般于死后1~3小时开始出现，也有的于死后10分钟，迟至7小时或 更长的时间才出现。<br>尸僵发生的顺序，多为“下行型”，即自头到脚的方向发展。最先发生的是 咬肌和眼轮匝肌(约在死后1~3小时出现)→颜面、颈部肌(3~4小时))→胸、背肌(4~5小时))→上肢肌(5~6小时))→下肢肌(7~8小时))→全身肌肉(9小时以上)，12小时后，尸僵强盛，24小时左右最为僵硬。尸体各处僵直的强度不一，以下颌关节最强。死后68小时内，用外力去消除，尸僵还可重现；死后89小时后，用外力消除，尸僵则不会重现了。</p><p>【根据角膜混浊推断死亡时间】</p><table><thead><tr><th>死亡时间</th><th>角膜现象</th></tr></thead><tbody><tr><td>1-2h</td><td>湿润，瞳孔透明</td></tr><tr><td>3-4h</td><td>湿润，瞳孔开始发白</td></tr><tr><td>5-8h</td><td>开始干燥，瞳孔透明度逐渐丧失</td></tr><tr><td>9-11h</td><td>轻微混浊</td></tr><tr><td>12-23h</td><td>混浊增强，瞳孔尚能透视</td></tr><tr><td>24-30h</td><td>中度混浊到深度混浊</td></tr><tr><td>30h后</td><td>完全混浊，瞳孔不能看见</td></tr></tbody></table><p>根据尸检报告中三种情况大致可判断尸体死亡时间更<font color="#e03e3e">符合C选项</font>。<br>尸斑的分布位置，与尸体的姿势直接相关。<br>仰卧状尸体，尸斑出现在枕部、背部、腰部、臀部两侧及四肢后侧，有时也见干尸体侧面，甚至上面的倾斜区如锁骨上部;<br>俯卧的尸体，尸斑分布在颜面、胸部、腹部和四肢的前面，此时两侧眼结膜也往往呈淤血状;<br>处于立位的尸体，如悬吊的尸体，尸斑出现在下肢、下腹部和上肢的远端。<br>结合尸体查验，可得知死者长时间处于仰卧位。<font color="#e03e3e">为B选项</font>。</p>]]></content>
-    
-    
-    <summary type="html">20210414期侦探委托《尸检篇》 答案与解析</summary>
     
     
     
