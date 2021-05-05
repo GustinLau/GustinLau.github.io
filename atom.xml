@@ -6,7 +6,7 @@
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2021-05-04T06:37:13.620Z</updated>
+  <updated>2021-05-05T14:42:44.746Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,52 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>地球保卫战-答案</title>
+    <link href="http://yoursite.com/2021/05/Crimaster-Challenge-Earth-Defense-Force-Ans/"/>
+    <id>http://yoursite.com/2021/05/Crimaster-Challenge-Earth-Defense-Force-Ans/</id>
+    <published>2021-05-05T12:00:00.000Z</published>
+    <updated>2021-05-05T14:42:44.746Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="答案"><a href="#答案" class="headerlink" title="答案"></a>答案</h1><p>skullisland</p><h1 id="解析"><a href="#解析" class="headerlink" title="解析"></a>解析</h1><p>观察第一幅图可知，这和猪圈密码有关</p><img src="/assets/images/crimaster/2021/05/20210505-ans-1.png" alt="图片" class="post-image half"><img src="/assets/images/crimaster/2021/05/20210505-ans-2.png" alt="图片" class="post-image half"><p>则根据密码表根据观察得到，红对应的为M，蓝对应的为Z，紫对应的为H，根据第二张图可知， 第一张图的三个字母与第二张图的三个字母有某种正确对应关系。根据提示(找到正确的字母)，意思是告诉我们将进行字母按字母表顺序将对应。接下来将进行试错，若M对应V，H就将对应A，Z对应N，将无法按字母表顺序得到新的关系。</p><p>以此类推，最终确认M对应A，H对应V，Z对应N。如图，我们得到了新的对应表。</p><img src="/assets/images/crimaster/2021/05/20210505-ans-3.png" alt="图片" class="post-image half"><p>此时看第三张图，发现所给音素为元音音素，提示为元音密码，根据/将数字进行几个为一组的分组则可以得到</p><p>2/52/22/53/53/5/2/53/34/55/41</p><p>此时用元音密码则可以解出EWGXXUEXMZP</p><img src="/assets/images/crimaster/2021/05/20210505-ans-4.png" alt="图片" class="post-image half"><img src="/assets/images/crimaster/2021/05/20210505-ans-5.png" alt="图片" class="post-image half"><p>此时得到的EWGXXUEXMZP带回对应表中，此时并不知道正确的明文密文对应方向，将进行两次试错：</p><p>1.若M为开头的为明文，A开头的为密文则，可得到qisjjgqjylb</p><p>2.若A开头的为明文，M开头的为密文，则可得到skullisland</p><p>综上所述，第2种有明显意义，所以答案为skull island</p><p>珂欣说:“让我们去骷髅岛？可那里不是已经沦陷了？”</p><p>浩玥说:“我们不能失去诗吟，想办法一定要去救她！”</p><p>LL说:“基地里的装备应该足以抵御那里的变异物种了！”</p><p>三人立即收拾了装备以及物资前往了骷髅岛。</p>]]></content>
+    
+    
+    <summary type="html">202103期全民挑战《地球保卫战》答案与解析</summary>
+    
+    
+    
+    <category term="犯罪大师" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/"/>
+    
+    <category term="全民挑战" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/%E5%85%A8%E6%B0%91%E6%8C%91%E6%88%98/"/>
+    
+    
+    <category term="全民挑战-解答" scheme="http://yoursite.com/tags/%E5%85%A8%E6%B0%91%E6%8C%91%E6%88%98-%E8%A7%A3%E7%AD%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>地球保卫战</title>
+    <link href="http://yoursite.com/2021/05/Crimaster-Challenge-Earth-Defense-Force/"/>
+    <id>http://yoursite.com/2021/05/Crimaster-Challenge-Earth-Defense-Force/</id>
+    <published>2021-05-05T00:00:00.000Z</published>
+    <updated>2021-05-05T14:31:14.569Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="题目"><a href="#题目" class="headerlink" title="题目"></a>题目</h1><p>时间:六十世纪</p><p>地点:地球</p><p>背景:能源危机，地球生灵涂炭。</p><p>团队:地球守护小组</p><p>LL，浩玥，珂欣三人在进行飞船的研制与新能源的研究。</p><p>LL说:“诗吟去哪了?”</p><p>珂欣说:“大概三小时前，超级电波就联系不上她了。”</p><p>浩玥说:“马上进入紧急状态，去诗吟家找她”</p><p>三人带上武器装备，立即前往诗吟家。可诗吟家中的景象让三人瞠目结舌，房间凌乱不堪，有过被入侵的迹象，在一番仔细搜査后，一个用高分子纳米科技的码锁被发现，LL熟练的输入了密码。里面存放着三张图片，三人便对着图片思索起来。“她一定是要告诉我们什么信息!”</p><img src="/assets/images/crimaster/2021/05/20210505-1.png" alt="图片" class="post-image half"><p>请找到正确的对照表格并解出数字所表达的一处地点。</p><h1 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h1><p>请输入答案11个字母不区分大小写及空格</p>]]></content>
+    
+    
+    <summary type="html">LL，浩玥，珂欣三人在进行飞船的研制与新能源的研究。</summary>
+    
+    
+    
+    <category term="犯罪大师" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/"/>
+    
+    <category term="全民挑战" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/%E5%85%A8%E6%B0%91%E6%8C%91%E6%88%98/"/>
+    
+    
+    <category term="全民挑战" scheme="http://yoursite.com/tags/%E5%85%A8%E6%B0%91%E6%8C%91%E6%88%98/"/>
+    
+  </entry>
   
   <entry>
     <title>第一期测试题-答案</title>
@@ -425,52 +471,6 @@
     
     
     <category term="疑案追凶-解答" scheme="http://yoursite.com/tags/%E7%96%91%E6%A1%88%E8%BF%BD%E5%87%B6-%E8%A7%A3%E7%AD%94/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>忘川河</title>
-    <link href="http://yoursite.com/2021/04/Crimaster-Case-Lethe-River/"/>
-    <id>http://yoursite.com/2021/04/Crimaster-Case-Lethe-River/</id>
-    <published>2021-04-17T00:00:00.000Z</published>
-    <updated>2021-05-02T09:43:35.900Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="案件介绍"><a href="#案件介绍" class="headerlink" title="案件介绍"></a>案件介绍</h1><p>2021年4月17日早06:30，贵阳发生一起轿车坠河事件，车上人员一死一伤，死者余林是当地知名企业的财务总监，受伤者是司机也是其同事。警方将车辆打捞上岸之后，通过死者的人际关系，将三人列为犯罪嫌疑人。但因为疑点过多，将部分证据公布到CRIMASTER平台上，邀请各方侦探协同破案。</p><h1 id="现场侦测"><a href="#现场侦测" class="headerlink" title="现场侦测"></a>现场侦测</h1><ul><li>案发现场:<br>路面环境整洁，桥边无防护栏;监控显示李顺正常驾驶无违规行为，突然驶向河中，在这个过程中有轻微减速现象。</li></ul><ul><li>失事车辆:<br>外力受损情况检测，汽车外部除右侧前后车门外无其他明显破坏，底盘有细微伤痕，刹车线完好，引擎盖检测内部也无外力损坏痕迹，汽车制动功能受损，无法正常制动。</li></ul><ul><li>物质检测:<br>检测到内部机械表面物质有较大量乙二醇乙醚、聚乙二醇、水和少量灰尘泥沙。</li></ul><ul><li>指纹检测:<br>汽车钥匙上发现余林和李顺的指纹。</li></ul><h1 id="余林-死者"><a href="#余林-死者" class="headerlink" title="余林(死者)"></a>余林(死者)</h1><ol><li>死者信息<br>余林，男，36岁，某公司财务总监，已婚，儿子五年前因意外溺水离世。</li></ol><ol start="2"><li>尸检报告<br>尸长170cm，肺内有大量积水，呼吸道有溺液。全身潮红；嘴唇发绀；血液不凝固；内脏淤血；睑结膜、粘膜、浆膜瘀点性出血。口鼻腔前可见多量淡红色蕈形泡沫，小臂上有不明显压痕，手背上有多处伤痕。血液内酒精浓度严重超标。</li></ol><ol start="3"><li>两瓶药<br>一瓶主要成分是奥氮平，另一瓶是解酒药，但在其中几粒中检测到头孢的成份。在部分胶囊上检测到李顺和黄雅的指纹。</li></ol><ol start="4"><li>邻居<br>称前几天听到余林夫妇半夜激烈的争吵声，好像是说什么孩子的事。</li></ol><ol start="5"><li>酒吧服务员<br>余先生是我们这的高级会员，昨天晚上来到我们这的，余先生停好了车就直接要了个包间和很多酒，中间没有出去过，也没人来找他，后来喝多了还砸了包间的桌子，因为是老会员，所以打算等他清醒了再说赔偿的事，今天早上我扶他出去看着他被一个朋友开车接走了，走的时候好好的。没想到人就这么没了。</li></ol><ol start="6"><li>同事证词<br>余林工作认真，自己的东西都是自己保管，从来没有听说他丢过什么东西。</li></ol><ol start="7"><li>行车记录仪<br>案发日早上无异常停车现象。</li></ol><h1 id="黄雅-妻子"><a href="#黄雅-妻子" class="headerlink" title="黄雅(妻子)"></a>黄雅(妻子)</h1><ol><li>嫌疑人信息<br>黄雅，女，35岁，死者余林的妻子，家庭主妇，已婚，儿子五年前因意外溺水离世。</li></ol><ol start="2"><li>口供<br>我和老余是很多年的夫妻了，感情一直很好，直到儿子五年前出了事，他好像是变了一个人，脾气变得异常暴躁，我知道这是因为儿子没了，他难受，可我又何尝不伤心啊。不过他也知道这样不对，后来每次想和我发脾气都去外边喝酒，我也习惯了。昨天晚上他和我说出去喝酒，我以为是和往常一样，没想到，人就这么没了。</li></ol><ol start="3"><li>一本相册<br>里面的照片属于一个可爱的小男孩大概六七岁，相册有被损毁的痕迹。</li></ol><ol start="4"><li>汽车保养单<br>與门汽车有限公司，4月14日做了车辆全面保养，费用8848元，签字人是张峰。</li></ol><ol start="5"><li>邻居证词<br>黄雅和余林这两口子经常吵架，这几年好了一些，但经常看到一个男人在余林不在的时候来找黄雅，但待的时间都不长，不太清楚两个人是什么关系。后经邻居指认，经常来找黄雅的神秘男子就是张峰。</li></ol><ol start="6"><li>监控<br>4月16日晚21:10黄雅出门倒垃圾，5分钟左右回到单元楼。</li></ol><ol start="7"><li>车程<br>黄雅家离余林常去的酒吧车程10分钟。</li></ol><h1 id="张峰-黄同学"><a href="#张峰-黄同学" class="headerlink" title="张峰(黄同学)"></a>张峰(黄同学)</h1><ol><li>嫌疑人信息<br>张峰，男，36岁，黄雅的同学，离异，无子女，舆门汽车有限公司经理。</li></ol><ol start="2"><li>口供<br>我和黄雅认识，我们是大学同学，不过毕业之后联系的就比较少了，我们也各自都有了家庭。不过后来听说他们家出了点事，家家都有本难念的经啊。我现在就在这家门店当经理，有时候也会亲自帮客户保养车辆。余先生前几天刚在我们这保养完汽车，我可以保证汽车没有任何问题。昨天晚上我发现我的烟没了，就下去买了盒烟，再没出去过。</li></ol><ol start="3"><li>店内监控<br>余林的汽车是在店内保养的，保养期间监控全程覆盖，未发现任何异常。</li></ol><ol start="4"><li>警方调查<br>黄雅的手机在案发前一天晚上给一个陌生号码打了电话，而号码的主人正是张峰。</li></ol><ol start="5"><li>监控<br>4月16日晚22:00离开单元楼，22:20进入单元楼(进出皆佩戴口罩)</li></ol><ol start="6"><li>超市老板<br>张先生昨天22:00左右在我这买了一包烟，肯定是他，我还和他说了几句话呢。</li></ol><ol start="7"><li>车程<br>张峰小区距离死者常去的酒吧车程20分钟。</li></ol><h1 id="李顺-同事"><a href="#李顺-同事" class="headerlink" title="李顺(同事)"></a>李顺(同事)</h1><ol><li>嫌疑人信息<br>李顺，男，28岁，单身，两年前经朋友介绍来到余林所在公司工作，为人踏实稳重。</li></ol><ol start="2"><li>口供<br>昨天我很早就回家睡觉了。今天早上我照常出门跑步，半路上看到余哥被人掺着晃晃悠悠的从酒吧出来，看样子喝了不少，我上去打了招呼，怕他出事就把钥匙拿过来准备送他回去，怕他晕车，还给他吃了醒酒药。路上和他聊起了家常，可不知怎么的，他突然就从后面扑上来打我，还按着我的胳膊，结果方向盘歪了，车往路外边冲，眼看着要掉河里了，我赶紧踩刹车，但刹车好像坏了一样，结果我们连车带人掉河里了。我好不容易打碎车窗从里面出来，然后去救余哥，可上岸后发现余哥已经死了，我对不住他!</li></ol><ol start="3"><li>家中灵堂<br>照片是一位青年男子，桌上放着一张教练员证和一张五年前的旧报纸(报纸内容:无良游泳教练被撤职处分)。桌下摆着一盆像柳树的盆栽。</li></ol><ol start="4"><li>陈旧的信<br>小顺，哥没法办的事你帮哥做了，这辈子当哥欠你的，哥下辈子还你。</li></ol><ol start="5"><li>伤痕<br>右侧脸颊有多处打击伤痕。检测后证张峰(黄同学)    明是余林造成的。</li></ol><ol start="6"><li>证词<br>(1)邻居:李顺这小伙子挺好的，基本每天早晨都出来锻炼身体。<br>(2)朋友:李顺以前是做销售的，眼看就要提拔做经理了，不知怎么就突然辞去了工作。</li></ol><ol start="7"><li>调查<br>李顺的单元楼监控显示其在案发前一晚并未出门。</li></ol><h1 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h1><ol><li>根据现有证据，对于余林的死，李顺需要承担什么责任?<br>A.过失致人死亡罪<br>B.故意杀人罪<br>C.无需承担上述责任</li></ol><ol start="2"><li>在无买凶杀人的情况下，根据现有线索，谁需要对余林的死负主要责任?<br>A.张峰一定负主要责任<br>B.李顺一定负主要责任<br>C.黄雅一定负主要责任<br>D.无法断定，张峰或黄雅都有可能需负主要责任</li></ol><ol start="3"><li>根据现有证据，余林的车什么时候被动手脚的可能性大?<br>A.未被动手脚<br>B.事故前12小时内<br>C.事故前12至24小时<br>D.事故前3至5天<br>E.不可确定</li></ol>]]></content>
-    
-    
-    <summary type="html">2021年4月17日早06:30，贵阳发生一起轿车坠河事件，车上人员一死一伤，死者余林是当地知名企业的财务总监，受伤者是司机也是其同事。警方将车辆打捞上岸之后，通过死者的人际关系，将三人列为犯罪嫌疑人。但因为疑点过多，将部分证据公布到CRIMASTER平台上，邀请各方侦探协同破案。</summary>
-    
-    
-    
-    <category term="犯罪大师" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/"/>
-    
-    <category term="疑案追凶" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/%E7%96%91%E6%A1%88%E8%BF%BD%E5%87%B6/"/>
-    
-    
-    <category term="疑案追凶" scheme="http://yoursite.com/tags/%E7%96%91%E6%A1%88%E8%BF%BD%E5%87%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>尸检进阶篇-答案</title>
-    <link href="http://yoursite.com/2021/04/Crimaster-Delegate-Autopsy-Advance-Ans/"/>
-    <id>http://yoursite.com/2021/04/Crimaster-Delegate-Autopsy-Advance-Ans/</id>
-    <published>2021-04-16T12:00:00.000Z</published>
-    <updated>2021-05-02T08:50:26.889Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="答案"><a href="#答案" class="headerlink" title="答案"></a>答案</h1><ol><li>死者是生前入水还是死后入水?<br>A.生前入水<br><font color="#56c596">B.死后入水</font><br>C.无法判断</li></ol><ol start="2"><li>死者的死因是?<br>A.溺死<br><font color="#56c596">B.扼死</font><br>C.颅内出血致死</li></ol><ol start="3"><li>死者遭受致命伤害时最有可能处于什么状态?<br><font color="#56c596">A.昏迷</font><br>B.清醒<br>C.无法判断</li></ol><h1 id="解析"><a href="#解析" class="headerlink" title="解析"></a>解析</h1><p>生前溺死与死后抛尸入水的鉴别：</p><table><thead><tr><th><span class="block" style="width:80px">项目</span></th><th>溺死</th><th>死后抛尸入水</th></tr></thead><tbody><tr><td>口鼻部</td><td>白色或粉红色蕈样泡沫</td><td>无</td></tr><tr><td>呼吸道</td><td>全部呼吸道和肺泡内有溺液、泡沫和异物</td><td>仅上呼吸道有少量溺液、异物；若水压较大可达下呼吸道，但无泡沫</td></tr><tr><td>肺</td><td>水性肺气肿，肺表面有肋骨压痕、溺死斑，切面有溺液流出</td><td>无</td></tr><tr><td>心</td><td>左心血液较右心稀(淡水溺死)</td><td>左右心血液浓度相同，成分相同</td></tr><tr><td>胃肠</td><td>多有溺液、水草、泥沙等物</td><td>仅胃有少量溺液，一般不进入小肠</td></tr><tr><td>内脏器官</td><td>脑、肝、肾等器官淤血，脾收缩贫血</td><td>不一定有淤血等改变</td></tr><tr><td>手中</td><td>可握有水草或泥沙等物</td><td>无</td></tr><tr><td>硅藻检验</td><td>肺、大循环各器官、骨髓、牙髓内均有检出相当数量的硅藻</td><td>有时仅在肺中检出少量，其余器官不能检出硅藻</td></tr><tr><td>死亡原因</td><td>溺死</td><td>由其他原因</td></tr></tbody></table><p>该尸体胃肠道并无异物，左右心血无改变，仅在口鼻腔有少量液体，无明显挣扎痕迹，可判断为死后入水。</p><p><font color="#e03e3e">第一题为B选项</font></p><p>扼死(manual stragulation)  </p><ul><li>概念：指用单或双手扼压颈部而引起的室息死亡，又称为掐死。有时也指用肘部、前臂或器械压迫颈部致死。</li><li>扼死仅见于他杀。自扼死亡不可能，因为自己用手压迫颈部，当呼吸障碍时意识丧失，可使四肢肌肉松软，进而不能维续压迫颈部。  </li></ul><p>扼死的死亡机制及过程</p><ul><li>类似于机械性窒息死机制，即呼吸道压迫、血液供应障碍、神经刺激、动脉窦刺激等;</li><li>扼死过程的长短取决于扼颈的力量、部位。</li></ul><p>扼死的形态学特点</p><ul><li>颈部:主要是检验颈部皮肤的扼痕——其主要是由于手指未端的指甲卡压皮肤所致——因此具有新月形、短线型的特点。 并且与施力者的左右利手有关系，左利手在被害者的颈部右侧造成四个指印，左侧造成一个指印;而右利手则正好相反。</li><li>颈部深层组织损伤——深部肌肉组织可有与皮肤相对应的组织内出血；如果施加力巨大可以导致舌骨、甲状软骨的骨折。</li></ul><p>扼死的窒息征象</p><ul><li>颜面部——高度发绀肿胀，还可伴有相应的粘膜出血，以及附加伤害痕迹。</li><li>手足体表的损伤——进行抵抗、挣扎、防卫时的损伤。</li><li>内脏的变化——内脏淤血、部分器官组织的表面可见灶性出血。</li></ul><p>扼死的法医学鉴定  </p><ul><li>因扼死常为他杀。所以现场较凌乱，可见搏斗抵抗的痕迹，尸体体表可见暴力伤或抵抗伤，衣着散乱破碎。如果被害人处于意识丧失状态(如睡眠、醉酒、安眠镇静药状态中)可无抵抗。</li><li>如系女性被害，还要检查外阴、大腿内侧皮肤等损伤痕迹，提取阴道拭子以鉴别有无强奸。</li><li>同时注意扼痕周围有可能的条件下，提取指纹、在被害者的指缝可以提取痕迹等进行物证学的分析。</li></ul><p>本案中根据：<br>第一：死者头皮未见损伤，头皮下有片状出血，颅骨未见骨折，蛛网膜下腔出血分析系受钝性暴力作用所致，徒手打击、磕碰可以形成。<br>第二：死者颈部扼痕明显，体表余未见机械件损伤；颜面部淤血肿胀，伴有大量出血点，角膜中度浑浊，脸结膜有出血点；口鼻腔有少量液体，咽后壁、喉头可见点状出血；脑无致命性损伤，心肺表面点片状出血。<br>综合以上检验情况分析，死者机械性室息征象明显，认为是被人徒手扼住颈部致机械性室息死亡。</p><p><font color="#e03e3e">第二题为 B 选项</font></p><p>根据尸检情况，若死者在清醒状态下被扼颈，正常情况下由于挣扎反抗在扼痕周围应当有擦伤或抵抗伤，而尸检颈部仅扼痕处表皮剥脱，周围无抵抗伤，由此说明死者在昏迷状态下被扼颈可能性大。蛛网膜下腔出血，而颅骨未见骨折，死者头部磕碰硬物可以形成碰撞地面也可以形成，以此分析死者可能头部受击昏迷后被扼颈致窒息死亡。</p><p><font color="#e03e3e">第三题为A选项</font></p><p>部分现象解析：  </p><p>尸体的浮沉和腐败  </p><ul><li>吸入溺液，沉入水底</li><li>腐败气体产生，浮于水面</li></ul><p>生前未进食者因胃肠内积聚大量气体较容易先浮起<br>女性脂肪占体重的比例较男性大，故比重减轻，在相同情况下排开水的体积增大，浮力也增加，所以比较容易上浮。 </p><ul><li>男子重心偏向前方，浮尸多呈俯卧</li><li>女子重心偏向后方，浮尸多呈仰卧</li></ul>]]></content>
-    
-    
-    <summary type="html">20210416期侦探委托《尸检进阶篇》答案与解析</summary>
-    
-    
-    
-    <category term="犯罪大师" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/"/>
-    
-    <category term="侦探委托" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/%E4%BE%A6%E6%8E%A2%E5%A7%94%E6%89%98/"/>
-    
-    
-    <category term="侦探委托-解答" scheme="http://yoursite.com/tags/%E4%BE%A6%E6%8E%A2%E5%A7%94%E6%89%98-%E8%A7%A3%E7%AD%94/"/>
     
   </entry>
   

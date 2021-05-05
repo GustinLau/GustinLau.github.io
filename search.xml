@@ -4,6 +4,60 @@
   
     
     <entry>
+      <title>地球保卫战-答案</title>
+      <link href="2021/05/Crimaster-Challenge-Earth-Defense-Force-Ans/"/>
+      <url>2021/05/Crimaster-Challenge-Earth-Defense-Force-Ans/</url>
+      
+        <content type="html"><![CDATA[<h1 id="答案"><a href="#答案" class="headerlink" title="答案"></a>答案</h1><p>skullisland</p><h1 id="解析"><a href="#解析" class="headerlink" title="解析"></a>解析</h1><p>观察第一幅图可知，这和猪圈密码有关</p><img src="/assets/images/crimaster/2021/05/20210505-ans-1.png" alt="图片" class="post-image half"><img src="/assets/images/crimaster/2021/05/20210505-ans-2.png" alt="图片" class="post-image half"><p>则根据密码表根据观察得到，红对应的为M，蓝对应的为Z，紫对应的为H，根据第二张图可知， 第一张图的三个字母与第二张图的三个字母有某种正确对应关系。根据提示(找到正确的字母)，意思是告诉我们将进行字母按字母表顺序将对应。接下来将进行试错，若M对应V，H就将对应A，Z对应N，将无法按字母表顺序得到新的关系。</p><p>以此类推，最终确认M对应A，H对应V，Z对应N。如图，我们得到了新的对应表。</p><img src="/assets/images/crimaster/2021/05/20210505-ans-3.png" alt="图片" class="post-image half"><p>此时看第三张图，发现所给音素为元音音素，提示为元音密码，根据/将数字进行几个为一组的分组则可以得到</p><p>2/52/22/53/53/5/2/53/34/55/41</p><p>此时用元音密码则可以解出EWGXXUEXMZP</p><img src="/assets/images/crimaster/2021/05/20210505-ans-4.png" alt="图片" class="post-image half"><img src="/assets/images/crimaster/2021/05/20210505-ans-5.png" alt="图片" class="post-image half"><p>此时得到的EWGXXUEXMZP带回对应表中，此时并不知道正确的明文密文对应方向，将进行两次试错：</p><p>1.若M为开头的为明文，A开头的为密文则，可得到qisjjgqjylb</p><p>2.若A开头的为明文，M开头的为密文，则可得到skullisland</p><p>综上所述，第2种有明显意义，所以答案为skull island</p><p>珂欣说:“让我们去骷髅岛？可那里不是已经沦陷了？”</p><p>浩玥说:“我们不能失去诗吟，想办法一定要去救她！”</p><p>LL说:“基地里的装备应该足以抵御那里的变异物种了！”</p><p>三人立即收拾了装备以及物资前往了骷髅岛。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 犯罪大师 </category>
+          
+          <category> 全民挑战 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 全民挑战-解答 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>地球保卫战</title>
+      <link href="2021/05/Crimaster-Challenge-Earth-Defense-Force/"/>
+      <url>2021/05/Crimaster-Challenge-Earth-Defense-Force/</url>
+      
+        <content type="html"><![CDATA[<h1 id="题目"><a href="#题目" class="headerlink" title="题目"></a>题目</h1><p>时间:六十世纪</p><p>地点:地球</p><p>背景:能源危机，地球生灵涂炭。</p><p>团队:地球守护小组</p><p>LL，浩玥，珂欣三人在进行飞船的研制与新能源的研究。</p><p>LL说:“诗吟去哪了?”</p><p>珂欣说:“大概三小时前，超级电波就联系不上她了。”</p><p>浩玥说:“马上进入紧急状态，去诗吟家找她”</p><p>三人带上武器装备，立即前往诗吟家。可诗吟家中的景象让三人瞠目结舌，房间凌乱不堪，有过被入侵的迹象，在一番仔细搜査后，一个用高分子纳米科技的码锁被发现，LL熟练的输入了密码。里面存放着三张图片，三人便对着图片思索起来。“她一定是要告诉我们什么信息!”</p><img src="/assets/images/crimaster/2021/05/20210505-1.png" alt="图片" class="post-image half"><p>请找到正确的对照表格并解出数字所表达的一处地点。</p><h1 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h1><p>请输入答案11个字母不区分大小写及空格</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 犯罪大师 </category>
+          
+          <category> 全民挑战 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 全民挑战 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>第一期测试题-答案</title>
       <link href="2021/05/Crimaster-Challenge-Test-Ans/"/>
       <url>2021/05/Crimaster-Challenge-Test-Ans/</url>
