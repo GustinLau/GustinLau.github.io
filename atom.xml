@@ -6,7 +6,7 @@
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2021-05-05T14:42:44.746Z</updated>
+  <updated>2021-05-09T02:44:22.251Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,75 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>极速破译</title>
+    <link href="http://yoursite.com/2021/05/Crimaster-Delegate-Speed-Decipher/"/>
+    <id>http://yoursite.com/2021/05/Crimaster-Delegate-Speed-Decipher/</id>
+    <published>2021-05-09T00:00:00.000Z</published>
+    <updated>2021-05-09T02:44:22.251Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="题目"><a href="#题目" class="headerlink" title="题目"></a>题目</h1><p>近日刑警平次和其团队告破了一起重大连环杀人案，但最终本该庆祝的时刻，平次忽然意识到案发时凶手使用某物件所对应的身高区间，与所抓嫌疑人不符，他急忙赶回现场，在隐秘角落里发现这样一条奇怪的图文。</p><img src="/assets/images/crimaster/2021/05/20210509-1.png" alt="图片" class="post-image half"><p>文：自天空极高处直至地狱的底端，追寻赤兔的足迹。(所需步骤为内华达州机密区域所对应数字减3的一半)</p><p><font style="color:#D9730D">提示1:王、皇后、战车与主教</font></p><p><font style="color:#D9730D">提示2:诗词</font></p><h1 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h1><p>七个汉字</p>]]></content>
+    
+    
+    <summary type="html">近日刑警平次和其团队告破了一起重大连环杀人案，但最终本该庆祝的时刻，平次忽然意识到案发时凶手使用某物件所对应的身高区间，与所抓嫌疑人不符，他急忙赶回现场，在隐秘角落里发现这样一条奇怪的图文。</summary>
+    
+    
+    
+    <category term="犯罪大师" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/"/>
+    
+    <category term="侦探委托" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/%E4%BE%A6%E6%8E%A2%E5%A7%94%E6%89%98/"/>
+    
+    
+    <category term="侦探委托" scheme="http://yoursite.com/tags/%E4%BE%A6%E6%8E%A2%E5%A7%94%E6%89%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>哥哥的礼物-答案</title>
+    <link href="http://yoursite.com/2021/05/Crimaster-Delegate-Brother&#39;s-Gift-Ans/"/>
+    <id>http://yoursite.com/2021/05/Crimaster-Delegate-Brother&#39;s-Gift-Ans/</id>
+    <published>2021-05-08T12:00:00.000Z</published>
+    <updated>2021-05-09T02:36:48.622Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="答案"><a href="#答案" class="headerlink" title="答案"></a>答案</h1><p>cop</p><h1 id="解析"><a href="#解析" class="headerlink" title="解析"></a>解析</h1><p>密码箱打开了，哥哥居然送了我一本CRIMASTERA解密本，上面还有一段哥哥写给我的话:</p><p>努力的苦读，就为这一刻！把你的实力全部发挥，所有关爱着你的人，都会为你祝福祈祷，相信你一定会考出满意的成绩！</p><p><font style="color:#D9730D">(作者在此祝愿莘莘学子们都能够金榜题名)</font></p><p>解题过程：</p><p>将连接处折叠形成一个正十二面体(提示降维打击指从三维立体到二维平面，需将平面还原成立体)十二面体中距离X最远的面是它的对面就是2，所以2就是O。骆驼英文是camel，与O相邻的面是3、5、6、7、8，所以3、5、6、7、8是camel但是具体对应还不明确。Z的一圈是X、1、5、8、4，5和8已经有字母了，所以1，4就是I、P，因为P不和Y相邻，所以1是P、4是。和Z、P都相邻的面是X和5，所以5是C，顺时针排一圈，5是C、8是A、7是M、6是E、3是L。再用和L是对面验证，成立。就剩下9，所以9是N。</p><img src="/assets/images/crimaster/2021/05/20210508-ans-1.png" alt="" class="post-image half no-limit-height"><p>按照1到9排列得policeman(警察)，将其镜像反转得到</p><img src="/assets/images/crimaster/2021/05/20210508-ans-2.png" alt="" class="post-image half no-limit-height"><p>台球中1-黄色，2-蓝色，3-红色，4-紫色，5桔色，6-绿色，7酱色，8-黑色，9-黄/白色，10-蓝/白色，11-红/白色，12-紫/白色，13-桔/白色，14-绿/白色，15-酱/白色对应就是589，即cop(警察)。</p>]]></content>
+    
+    
+    <summary type="html">20210508期侦探委托《哥哥的礼物》答案与解析</summary>
+    
+    
+    
+    <category term="犯罪大师" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/"/>
+    
+    <category term="侦探委托" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/%E4%BE%A6%E6%8E%A2%E5%A7%94%E6%89%98/"/>
+    
+    
+    <category term="侦探委托-解答" scheme="http://yoursite.com/tags/%E4%BE%A6%E6%8E%A2%E5%A7%94%E6%89%98-%E8%A7%A3%E7%AD%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>哥哥的礼物</title>
+    <link href="http://yoursite.com/2021/05/Crimaster-Delegate-Brother&#39;s-Gift/"/>
+    <id>http://yoursite.com/2021/05/Crimaster-Delegate-Brother&#39;s-Gift/</id>
+    <published>2021-05-08T00:00:00.000Z</published>
+    <updated>2021-05-09T02:31:57.358Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="题目"><a href="#题目" class="headerlink" title="题目"></a>题目</h1><p>今天是哥哥从警校回家的日子，好在他还记得我这个妹妹还有几十天就要中考了，破天荒的为我准备了一份礼物，但是需要解开密码箱才能够拿到。</p><p>箱子上的一副图和一段话如下：</p><img src="/assets/images/crimaster/2021/05/20210508-1.png" alt="图片" class="post-image half"><p>提示：</p><p>整个世界被降维打击，请准确还原。Z有两边是 I、P，骆驼顺时绕O转一圈，P、Y吵架不相邻， Z、P也和C相邻，离X最远的是O，I、L是对面，最后一处就是N。</p><p>球杆依次击中正义之职在镜子中的桔、黑及黄白寻找答案。</p><h1 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h1><p>三个字母的单词</p>]]></content>
+    
+    
+    <summary type="html">今天是哥哥从警校回家的日子，好在他还记得我这个妹妹还有几十天就要中考了，破天荒的为我准备了一份礼物，但是需要解开密码箱才能够拿到。</summary>
+    
+    
+    
+    <category term="犯罪大师" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/"/>
+    
+    <category term="侦探委托" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/%E4%BE%A6%E6%8E%A2%E5%A7%94%E6%89%98/"/>
+    
+    
+    <category term="侦探委托" scheme="http://yoursite.com/tags/%E4%BE%A6%E6%8E%A2%E5%A7%94%E6%89%98/"/>
+    
+  </entry>
   
   <entry>
     <title>地球保卫战-答案</title>
@@ -402,75 +471,6 @@
     
     
     <category term="侦探委托" scheme="http://yoursite.com/tags/%E4%BE%A6%E6%8E%A2%E5%A7%94%E6%89%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>起点-答案</title>
-    <link href="http://yoursite.com/2021/04/Crimaster-Decipher-Start-Ans/"/>
-    <id>http://yoursite.com/2021/04/Crimaster-Decipher-Start-Ans/</id>
-    <published>2021-04-18T12:00:00.000Z</published>
-    <updated>2021-05-02T09:42:51.500Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="答案"><a href="#答案" class="headerlink" title="答案"></a>答案</h1><p>Dream and hope</p><h1 id="解析"><a href="#解析" class="headerlink" title="解析"></a>解析</h1><p>Dream and hope梦想与希望。</p><p>老师写下的提示数字转换英文为rot，氩元素是18号元素，结合起来便是ROT18编码。它是将ROT5和ROT13组合在一起，并命名为ROT18。</p><p>ROT5:只在0到9内对数字进行编码，用当前数字往前数的第5个数字替換当前数字，例如当前为0，编码后变成5</p><p>ROT13:只对26个字母进行编码，用当前字母往前数的第13个字母替换当前字母，例如当前为A，编码后变成N。</p><p>将 Qernz naq u60cr通过ROT18解密后得到</p><p>Dream and h15pe</p><p>答案全部是英文字母，所以将15转换成字母得到就得到了答案: Dream and hope梦想与希望!</p><p>祝愿每一位莘莘学子心底埋藏的梦想与希望都能在这个六月里灿烂绽放!站在新的起点，收获新的挑战，迎接新的未来!</p>]]></content>
-    
-    
-    <summary type="html">20210418期极速破译《起点》答案与解析</summary>
-    
-    
-    
-    <category term="犯罪大师" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/"/>
-    
-    <category term="极速破译" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/%E6%9E%81%E9%80%9F%E7%A0%B4%E8%AF%91/"/>
-    
-    
-    <category term="极速破译-解答" scheme="http://yoursite.com/tags/%E6%9E%81%E9%80%9F%E7%A0%B4%E8%AF%91-%E8%A7%A3%E7%AD%94/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>起点</title>
-    <link href="http://yoursite.com/2021/04/Crimaster-Decipher-Start/"/>
-    <id>http://yoursite.com/2021/04/Crimaster-Decipher-Start/</id>
-    <published>2021-04-18T00:00:00.000Z</published>
-    <updated>2021-05-02T09:42:51.434Z</updated>
-    
-    <content type="html"><![CDATA[<p><font style="color:#D9730D">时间飞逝，CRIMASTER很快就要迎来一周岁生日了，感恩大家长久的陪伴，而我们也将一起迎来应用上线后所经历的第二个高考，2020年社区中那些高三玩家们的励志宣言和其他玩家的祝福之词，历历在目，现在的你们也都已经进入自己喜欢的大学里了吧?好好学习，努力干饭，选择一个喜欢的社团，结交一些真诚的朋友，邂逅一段美好的恋爱。<br>借此机会，向即将迎来人生转折点的玩家们道一声祝福，距离高考还有50天的时间，不短，但也不长，从现在开始，放下手机，退出游戏，静下心去复习，考入自己理想的大学，这也是对父母、长辈、老师及自己的一个最好的礼物，CIMASTER所有玩家和全体工作人员都会向你们送上最诚挚的祝福，我们会永远在这里等你，永远。<br>记住，乾坤未定，你我皆是黑马，加油!加油!加油!</font></p><h1 id="题目"><a href="#题目" class="headerlink" title="题目"></a>题目</h1><p>我叫新子，是一名即将毕业的高中生，距离高考还有最后五十天的时间。</p><p>今天和往常一样，班主任早早的来到了教室看管着正在自习的同学们。年仅二十几岁的她身上有一股不服输的干劲，圆圆的眼镜下是一双温柔灵动的双眸。我们是她带的第一届毕业生，每一次的考试成绩、每一位同学的身心健康，她都在时刻关注并给予我们鼓励与帮助。</p><p>上周刚刚结束了高考前的第一次摸底考试，我们班的成绩并不是很理想，班级里的压抑延伸到了每一个角落。</p><p>她似乎是发现了大家的状态，紧锁着眉头不知如何安慰大家。</p><p>“大家放一放手中的作业，我这儿有一道特别的题目，不会耽误大家太多的学习时间，希望可以借此缓解一下大家紧绷的情绪。</p><p>她转身在黑板上写下了一道谜题和提示:</p><p>题目:Qernz naq u60cr</p><p>提示:18 15 20氩</p><p>“希望大家能怀揣着黑板上破译出来的内容去坚持这最后的五十天，不惧挑战，迎接未来!”</p><h1 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h1><p>12个英文字母</p>]]></content>
-    
-    
-    <summary type="html">我叫新子，是一名即将毕业的高中生，距离高考还有最后五十天的时间。</summary>
-    
-    
-    
-    <category term="犯罪大师" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/"/>
-    
-    <category term="极速破译" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/%E6%9E%81%E9%80%9F%E7%A0%B4%E8%AF%91/"/>
-    
-    
-    <category term="极速破译" scheme="http://yoursite.com/tags/%E6%9E%81%E9%80%9F%E7%A0%B4%E8%AF%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>忘川河-答案</title>
-    <link href="http://yoursite.com/2021/04/Crimaster-Case-Lethe-River-Ans/"/>
-    <id>http://yoursite.com/2021/04/Crimaster-Case-Lethe-River-Ans/</id>
-    <published>2021-04-17T12:00:00.000Z</published>
-    <updated>2021-05-02T09:43:35.910Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="答案"><a href="#答案" class="headerlink" title="答案"></a>答案</h1><ol><li>根据现有证据，对于余林的死，李顺需要承担什么责任?<br>A.过失致人死亡罪<br>B.故意杀人罪<br><font color="#56c596">C.无需承担上述责任</font></li></ol><ol start="2"><li>在无买凶杀人的情况下，根据现有线索，谁需要对余林的死负主要责任?<br>A.张峰一定负主要责任<br>B.李顺一定负主要责任<br>C.黄雅一定负主要责任<br><font color="#56c596">D.无法断定，张峰或黄雅都有可能需负主要责任</font></li></ol><ol start="3"><li>根据现有证据，余林的车什么时候被动手脚的可能性大?<br>A.未被动手脚<br><font color="#56c596">B.事故前12小时内</font><br>C.事故前12至24小时<br>D.事故前3至5天<br>E.不可确定  </li></ol><h1 id="解析"><a href="#解析" class="headerlink" title="解析"></a>解析</h1><p>按照现有证据结合李顺的证词，可以推理出这样的一个案发经过“余林在酒吧喝酒至第二日早晨，准备回家，被同事李顺发现，李顺主动要求送余林回家，在路上，受到余林的干扰导致车辆偏离道路，李顺及时采取刹车等措施，但车辆好像被人做过手脚，最终车辆坠入河中，李顺在自救之后带着余林一起来到岸边，发现余林已经死亡。<br>那么在这个过程中，李顺是否有需要承担的责任呢?首先:在这个过程中，李顺的可能违法的行为有:未经车主允许使用其交通工具，将车驶入河流使车辆受损，间接导致余林的死亡。  </p><ul><li>第一问:李顺要承担什么责任。 </li></ul><p>要分析李顺承担什么责任，首先要判断其是否说谎。主要是两个问题(是否受到死者的袭击，汽车制动能力是否完好)，根据线索可以得出结论，李顺没有撒谎。根据已有证据，可以证明当时的情景与李顺供述的内容无异，李顺将车驶入河流属于意外事件，且已做出相应反应，不属于过失杀人和故意杀人。<font color="#e03e3e">选择C</font>。有的玩家对安全带这个事情有疑问。要注意，过失致人死亡的客观方面第一条就是“行为人具有致人死亡的行为”。而没有证据能证明李顺有这个行为，所以不构成过失杀人罪。但会因此承担部分责任(赔偿)。所以乘车请系好安全带。<br>由此也可知余林死亡的根本原因是汽车无法制动。根据线索可分析出是制动液被人做了手腿(汽车三天前刚经过保养，引擎盖内应该很干净，但是却在上面检测到了大量的乙二醇乙醚和聚乙二醇，这两种物质是某种制动液的主要成分)。作案人一定有能力打开余林汽车的引擎盖。  </p><ul><li>第二问:谁要对余林的死负主要责任。</li></ul><p>这道题需要判断本次案件属于意外还是自杀还是谋杀。根据服务员口供，可证明余林开车来的时候汽车没有任何问题，而早上李顺也看到余林刚刚从酒吧中走出。证明余林本人并未对车辆制动液做手脚。本人也没有任何自杀倾向。排除A。李顺在本案中的出现应属巧合，他不知道汽车被做了手脚，也不知道余林会攻击他，在案发前一晚也没有离开单元楼，没有作案时间。并且在意外发生之后做出了合理反应，无需对余林的死负刑事责任，排除B。根据现有证据来看，黄雅有杀余林的动机，并且已经实施(将余林的解酒药换成头孢)，但余林的死因与这无关，余林并没有吃含有头孢的解酒药，黄雅在案发前一晚只是离开单元楼五分钟，没有时间去到现场排除C。最后是张峰，张峰离开单元楼的时间是20分钟，看似时间不够往返于酒吧，但因为其佩戴口罩，且晚上光线昏暗，完全有可能是其找人伪装成自己进入单元楼，而张峰本人来到了酒吧，对余林的汽车做手脚。那这个假设是否可以成立呢?余林的车前几天在张峰所在汽车公司保养维修，张峰有机会获得汽车钥匙，张峰和黄雅当晚通话有机会了解到张峰所在位置。所以根据现有证据，最有可能对余林的汽车做手脚的人就是张峰。那么是否可以确定张峰就要负主要责任呢?不可以，虽然在题干中排除了买凶杀人的情况，但是黄雅和张峰的关系明显不简单，存在黄雅教唆张峰杀死余林的情况(黄雅为教唆犯，负主要刑事责任)也有张峰自己想要杀死余林的情况(张峰为主犯，负主要刑事责任)。现有证据无法完全表明主谋是黄雅还是张峰，<font color="#e03e3e">选择D</font>。  </p><ul><li>第三问:什么时候汽车被动了手脚。</li></ul><p>其实这个问题，在找到凶手之后就很简单了，首先根据警方检测汽车的制动能力有问题，以及在汽车内部机械表面检测到的制动液成份，就可以断定汽车被人动过手脚。而余林在开车来的路上并没有任何问题，证明在到达酒吧之前，汽车未被动手脚。有人可能会说提前被人加水，到达一定程度才会有意外。这里普及一下(制动液有很强的吸水性，所以在使用过程中，会慢慢的吸收空气中的水汽，慢慢降低制动液的浓度，从而影响制动效果，就是常说的刹车软。在发现这些情况的时候一定要及时更换制动液，避免发生意外。)从而排除了这个假设，这里不存在量变引起质变的可能。所以<font color="#e03e3e">选择B</font>。道路千万条，安全第一条。</p><p>过失杀人与意外致人死亡主观上都没有杀人的故意，过失杀人分为两种情况:</p><ol><li>应当预见该行为会致被害人死亡而没有预见</li><li>应当预见或已经预见该行为会致被害人死亡，而过于自信认为能够避免，最后没有避免造成被害人死亡。<br>意外事件主要是指在当时的情况下，行为人不可能或者根本不会预见的事件而导致被害人死亡</li></ol><p>案件还原：<br>余林和黄雅本是一对恩爱的夫妻，但五年前的一次意外，年仅7岁的儿子在游泳的时候溺水而亡。儿子死了之后，余林便患上了严重的精神疾病，需要靠药物维持正常。但还是经常忍不住地对妻子发火。他也知道这样不对，就慢慢每次想要发火就去酒吧买醉，夫妻感情逐渐崩溃，给了别人以可乘之机，张峰是黄雅大学时期的恋人，虽然毕业后两人联系不多，但张峰离婚之后总是会想起黄雅。在得知黄雅的儿子出了意外之后，他经常借安慰黄雅的借口与之见面。久而久之，黄雅与张峰的关系甚至比余林要更加亲密。或许是出于亏欠，她并没有和张峰发生什么，更没有打算和余林离婚。直到那一天，余林长时间的压抑迎来爆发，一周前，他没有选择去喝酒，而是对妻子大打出手。还摔坏了家里的装有儿子照片的相册，并大声质问黄雅“五年前你怎么不去死?”每一个字都好像是刀子扎在了黄雅的心里，黄雅终于决定杀死余林，她在给余林买的醒酒药中加入了几个含有头孢成份的胶囊，打算让余林的一次喝醉后走向死亡。而黄雅被打的事也被张峰所知道，张峰看着自己曾经心爱的女人被打，也没有无动于衷，巧合之下余林开车到张峰所在的公司做保养，张峰借职务便利偷偷配了一把钥匙，以备后用。在案发前一晚，黄雅打电话给张峰，想让他来陪她聊会天，但张峰觉得这是一个机会，避免夜长梦多，便是婉拒了黄雅，决定今晚就对余林的车下手。他先是找了一个和自己身高发型差不多的朋友让其来自己家帮忙看房子，并且问出朋友当晚的着装，找了一条差不多的裤子换上，去楼下商店买烟，让店员给自己做不在场证明，然后借口自己的衣服不符合规定，和朋友互换了衣服。朋友穿着张峰的衣服进入单元楼，为张峰做了不在场证明。张峰本人已经坐着车去了余林常去的酒吧，找到余林的汽车，用钥匙打开车前盖，将准备好的水灌入制动液箱，因为水的密度大于制动液，大量制动液从箱中流出，汽车的制动系统被破坏。做完这一切的张峰回到家和朋友换回衣服。再说当初游泳馆的教练李恒因为过失致学员死亡被停职查办，不久便患上了抑郁症，在一年前自杀身亡。但在自杀前写下遗言，希望自己的弟弟李顺能够帮自己一个忙，偿还自己对那家人的亏欠。李顺和哥哥关系十分亲密，李顺按照哥哥的请求，辞去了原来的工作，来到了余林的公司。经常在工作和生活上为余林提供帮助，在得知余林经常在附近的酒吧喝酒之后，直接在附近租了房子。案发当天，李顺出门跑步便看到了余林，怕余林出事便要送余林回家。在路上他和余林说着家常，说起了黄雅，勾起了余林的怒火，借着没消散的酒劲，余林袭击了李顺，方向被打乱，车向着河里冲，虽然李顺及时的松开了油门，猛踩刹车，但是因为无法制动，汽车还是掉入了河中。李顺毕竟会游泳，打开了车门，拽着余林上岸，但半清醒的余林已经在水下溺水而亡了。张峰本打算制造一场车祸，最终车毁人亡，死无对证，但车掉到河里，留下了致命的证据。黄雅也因为杀人未遂被警方逮捕。(案情也可以有其他走向，比如黄雅教唆张峰杀人，或者黄雅和张峰共同犯罪等)</p>]]></content>
-    
-    
-    <summary type="html">20210417期疑案追凶《忘川河》答案与解析</summary>
-    
-    
-    
-    <category term="犯罪大师" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/"/>
-    
-    <category term="疑案追凶" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/%E7%96%91%E6%A1%88%E8%BF%BD%E5%87%B6/"/>
-    
-    
-    <category term="疑案追凶-解答" scheme="http://yoursite.com/tags/%E7%96%91%E6%A1%88%E8%BF%BD%E5%87%B6-%E8%A7%A3%E7%AD%94/"/>
     
   </entry>
   

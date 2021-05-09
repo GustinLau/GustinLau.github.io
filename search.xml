@@ -4,6 +4,87 @@
   
     
     <entry>
+      <title>极速破译</title>
+      <link href="2021/05/Crimaster-Delegate-Speed-Decipher/"/>
+      <url>2021/05/Crimaster-Delegate-Speed-Decipher/</url>
+      
+        <content type="html"><![CDATA[<h1 id="题目"><a href="#题目" class="headerlink" title="题目"></a>题目</h1><p>近日刑警平次和其团队告破了一起重大连环杀人案，但最终本该庆祝的时刻，平次忽然意识到案发时凶手使用某物件所对应的身高区间，与所抓嫌疑人不符，他急忙赶回现场，在隐秘角落里发现这样一条奇怪的图文。</p><img src="/assets/images/crimaster/2021/05/20210509-1.png" alt="图片" class="post-image half"><p>文：自天空极高处直至地狱的底端，追寻赤兔的足迹。(所需步骤为内华达州机密区域所对应数字减3的一半)</p><p><font style="color:#D9730D">提示1:王、皇后、战车与主教</font></p><p><font style="color:#D9730D">提示2:诗词</font></p><h1 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h1><p>七个汉字</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 犯罪大师 </category>
+          
+          <category> 侦探委托 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 侦探委托 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>哥哥的礼物-答案</title>
+      <link href="2021/05/Crimaster-Delegate-Brother&#39;s-Gift-Ans/"/>
+      <url>2021/05/Crimaster-Delegate-Brother&#39;s-Gift-Ans/</url>
+      
+        <content type="html"><![CDATA[<h1 id="答案"><a href="#答案" class="headerlink" title="答案"></a>答案</h1><p>cop</p><h1 id="解析"><a href="#解析" class="headerlink" title="解析"></a>解析</h1><p>密码箱打开了，哥哥居然送了我一本CRIMASTERA解密本，上面还有一段哥哥写给我的话:</p><p>努力的苦读，就为这一刻！把你的实力全部发挥，所有关爱着你的人，都会为你祝福祈祷，相信你一定会考出满意的成绩！</p><p><font style="color:#D9730D">(作者在此祝愿莘莘学子们都能够金榜题名)</font></p><p>解题过程：</p><p>将连接处折叠形成一个正十二面体(提示降维打击指从三维立体到二维平面，需将平面还原成立体)十二面体中距离X最远的面是它的对面就是2，所以2就是O。骆驼英文是camel，与O相邻的面是3、5、6、7、8，所以3、5、6、7、8是camel但是具体对应还不明确。Z的一圈是X、1、5、8、4，5和8已经有字母了，所以1，4就是I、P，因为P不和Y相邻，所以1是P、4是。和Z、P都相邻的面是X和5，所以5是C，顺时针排一圈，5是C、8是A、7是M、6是E、3是L。再用和L是对面验证，成立。就剩下9，所以9是N。</p><img src="/assets/images/crimaster/2021/05/20210508-ans-1.png" alt="" class="post-image half no-limit-height"><p>按照1到9排列得policeman(警察)，将其镜像反转得到</p><img src="/assets/images/crimaster/2021/05/20210508-ans-2.png" alt="" class="post-image half no-limit-height"><p>台球中1-黄色，2-蓝色，3-红色，4-紫色，5桔色，6-绿色，7酱色，8-黑色，9-黄/白色，10-蓝/白色，11-红/白色，12-紫/白色，13-桔/白色，14-绿/白色，15-酱/白色对应就是589，即cop(警察)。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 犯罪大师 </category>
+          
+          <category> 侦探委托 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 侦探委托-解答 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>哥哥的礼物</title>
+      <link href="2021/05/Crimaster-Delegate-Brother&#39;s-Gift/"/>
+      <url>2021/05/Crimaster-Delegate-Brother&#39;s-Gift/</url>
+      
+        <content type="html"><![CDATA[<h1 id="题目"><a href="#题目" class="headerlink" title="题目"></a>题目</h1><p>今天是哥哥从警校回家的日子，好在他还记得我这个妹妹还有几十天就要中考了，破天荒的为我准备了一份礼物，但是需要解开密码箱才能够拿到。</p><p>箱子上的一副图和一段话如下：</p><img src="/assets/images/crimaster/2021/05/20210508-1.png" alt="图片" class="post-image half"><p>提示：</p><p>整个世界被降维打击，请准确还原。Z有两边是 I、P，骆驼顺时绕O转一圈，P、Y吵架不相邻， Z、P也和C相邻，离X最远的是O，I、L是对面，最后一处就是N。</p><p>球杆依次击中正义之职在镜子中的桔、黑及黄白寻找答案。</p><h1 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h1><p>三个字母的单词</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 犯罪大师 </category>
+          
+          <category> 侦探委托 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 侦探委托 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>地球保卫战-答案</title>
       <link href="2021/05/Crimaster-Challenge-Earth-Defense-Force-Ans/"/>
       <url>2021/05/Crimaster-Challenge-Earth-Defense-Force-Ans/</url>
