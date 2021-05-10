@@ -6,7 +6,7 @@
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2021-05-09T02:44:22.251Z</updated>
+  <updated>2021-05-10T11:27:45.891Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>极速破译-答案</title>
+    <link href="http://yoursite.com/2021/05/Crimaster-Delegate-Speed-Decipher-Ans/"/>
+    <id>http://yoursite.com/2021/05/Crimaster-Delegate-Speed-Decipher-Ans/</id>
+    <published>2021-05-09T12:00:00.000Z</published>
+    <updated>2021-05-10T11:27:45.891Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="答案"><a href="#答案" class="headerlink" title="答案"></a>答案</h1><p>春丛认取双蝶</p><h1 id="解析"><a href="#解析" class="headerlink" title="解析"></a>解析</h1><p><font style="color:#D9730D">后续:似乎警队只是抓到了被嫁祸之人，真正的手与被嫁祸人有深仇大恨，身边至亲人的离世与被嫁祸者有关!</font></p><p>本题有多种解法，需一一尝试，因诗词的提示所以其它皆为乱序，无法得出答案。</p><p>正确解题过程：</p><p>内华达州机密区域为51区，因此所需步骤为24即所有白格都要走一遍。天空到地狱，意为自上 而下的顺序，下面有R和E，但是右下角的E只有 一条能单向通向它的路，而且又要求所有格子都走完，所以E必定是起始点或终点(所以把极高处到底端理解为字母表中从A到Z的也可以通过观察这一点排除)，同理左上角的C也能这样确定是起始或终点，所以最终只能是左上角的C到右下角的E。</p><p>提示一为“王，皇后，战车与主教”，意为国际象棋，赤兔是马，马走L型，根据提示需要走24步，从头到尾走完所经历的字母，便是答案。</p><p>(即<font style="color:#D9730D">CHUNCONGRENQUSHUANGQIDIE</font>，根据答案要求的七个汉字加上诗词的提示得到:<font style="color:#D9730D">春丛认取双栖蝶</font>)</p><img src="/assets/images/crimaster/2021/05/20210509-ans-1.png" alt="图片" class="post-image half">]]></content>
+    
+    
+    <summary type="html">20210509期侦探委托《神秘交易》答案与解析</summary>
+    
+    
+    
+    <category term="犯罪大师" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/"/>
+    
+    <category term="侦探委托" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/%E4%BE%A6%E6%8E%A2%E5%A7%94%E6%89%98/"/>
+    
+    
+    <category term="侦探委托" scheme="http://yoursite.com/tags/%E4%BE%A6%E6%8E%A2%E5%A7%94%E6%89%98/"/>
+    
+  </entry>
   
   <entry>
     <title>极速破译</title>
@@ -448,29 +471,6 @@
     
     
     <category term="侦探委托-解答" scheme="http://yoursite.com/tags/%E4%BE%A6%E6%8E%A2%E5%A7%94%E6%89%98-%E8%A7%A3%E7%AD%94/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>观察推理入门篇—YK手稿</title>
-    <link href="http://yoursite.com/2021/04/Crimaster-Delegate-YK-Observation-Intro/"/>
-    <id>http://yoursite.com/2021/04/Crimaster-Delegate-YK-Observation-Intro/</id>
-    <published>2021-04-21T00:00:00.000Z</published>
-    <updated>2021-05-02T09:09:01.932Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="案件介绍"><a href="#案件介绍" class="headerlink" title="案件介绍"></a>案件介绍</h1><p>这是我第一次乘坐飞机，伴随着空乘广播的提醒，飞往美国纽约的飞机总算起飞了。生性好动的我，在座位上还没坐满半个小时，便开始觉得些许乏味。早早知晓要度过无聊的十三个小时的我准备了一本书:由华人神探李昌钰所著的《犯罪现场调查》。我津津有味的阅读着，还不时自言自语的称赞道细微痕迹对案件的决定性作用。大致看了两个多小时的书，眼睛明显有些许疲惫，合起了书，闭目回想书中的精华… </p><p>不知不觉，时间过去了八个小时，睡眼惺忪的我揉了揉太阳穴。虽说已经过了八小时，可对目的地的期待让剩下的时间变得相当漫长，我耸耸肩膀俏皮的模仿起了大侦探福尔摩斯系列故事中的观察人物推理其身份职业的场景，细致的开始观察起周围的人群。</p><h1 id="现场侦测"><a href="#现场侦测" class="headerlink" title="现场侦测"></a>现场侦测</h1><p>这是一架从北京飞往纽约的航班，受疫情影响，飞机上每个人皆佩戴口罩。</p><p>一位空姐迎面走来，端了一杯水给斜前方的男士，在递水时，空姐右手端住一次性水杯，左手刻意的扶了一下右手的肘关节，小心的将水杯递给了那位男士。这位空姐的年纪大概不到40岁，飞机此时正处于平稳状态，她的这个小动作让我感到疑惑，是她刻意为之或习惯?在她收回右手时，左手在手肘处轻柔了两圈，这让我意识到很可能是她在空中工作时间过久的一种职业病——肌腱炎，才使她有这样一个小小的动作。</p><p>我的思绪开始从这位空姐转换到周围的几位乘客，并记录下了他们的特征以及行为。</p><p><font color="#e03e3e">注:三道题目皆不排除选项以外其它可能的职业，该题仅相对选项而言选择更可能的。</font></p><h1 id="人物A"><a href="#人物A" class="headerlink" title="人物A"></a>人物A</h1><ol><li><p>观察情况</p><ul><li><p>穿着:<br>偏休闲的灰蓝色西服，系带的棕色皮鞋。 </p></li><li><p>特征:<br>戴着黑色外框眼镜，黑色短发，身高目测178cm，年龄40岁左右。</p></li><li><p>细节:<br>该男子双手纤细，右手食指和中指关节有突起，右手小鱼际处沾有些许黑色印记，西服口袋里装有一本夹着笔的小本子，臀骨看起来较他人相对宽大些。西服熨烫整齐，脚底存放一个棕色单间包。</p></li><li><p>行为:<br>在乘坐飞机期间有过轻咳，并服用薄荷含片。</p></li></ul></li></ol><h1 id="人物B"><a href="#人物B" class="headerlink" title="人物B"></a>人物B</h1><ol><li><p>观察情况 </p><ul><li><p>穿着:<br>白色过膝连衣裙，白色平底休闲鞋。</p></li><li><p>特征:<br>淡妆，黑色长发，中马尾发型，目测170cm，年龄近三十岁左右。</p></li><li><p>细节:<br>该女子指甲较短，左手食指、中指以及无名指指腹有茧，颈椎处贴有棕 色膏药，下巴左侧有茧。手提包中露出曲谱部分，裙摆处有轻微褶皱。</p></li><li><p>行为:<br>在乘坐飞机期间多次活动手腕以及脖子。</p></li></ul></li></ol><h1 id="人物C"><a href="#人物C" class="headerlink" title="人物C"></a>人物C</h1><ol><li><p>观察情况</p><ul><li><p>穿着:<br>灰色运动服套装，黑色运动鞋。</p></li><li><p>特征:<br>体型偏瘦，寸头，目测179cm，年龄四十左右。</p></li><li><p>细节:<br>该男子左右手臂较发达，手掌心有厚实茧子，手背及脸部有多处凹陷的疤痕。眼部有较多红血丝，皮肤干裂粗     糙颜色黝黑。一直紧握胸前的双肩背包，背包一侧网状口袋中有一老式保温杯。</p></li><li><p>行为:<br>多次揉搓眼部，多次重咳。</p></li></ul></li></ol><h1 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h1><ol><li>人物A的职业更可能是以下中哪一个?<br>A.教师<br>B.外科医生<br>C.钢琴家<br>D.歌唱家  </li></ol><ol start="2"><li>人物的职业更可能是以下中哪一个?<br>A.竖琴演奏者<br>B.小提琴演奏者<br>C.大提琴演奏者<br>D.二胡演奏者  </li></ol><ol start="3"><li>人物C的职业更可能是以下中哪一个?<br>A.瓦匠<br>B.木匠<br>C.电焊工<br>D.油漆工  </li></ol>]]></content>
-    
-    
-    <summary type="html">这是我第一次乘坐飞机，伴随着空乘广播的提醒，飞往美国纽约的飞机总算起飞了。生性好动的我，在座位上还没坐满半个小时，便开始觉得些许乏味。早早知晓要度过无聊的十三个小时的我准备了一本书:由华人神探李昌钰所著的《犯罪现场调查》。我津津有味的阅读着，还不时自言自语的称赞道细微痕迹对案件的决定性作用。大致看了两个多小时的书，眼睛明显有些许疲惫，合起了书，闭目回想书中的精华...</summary>
-    
-    
-    
-    <category term="犯罪大师" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/"/>
-    
-    <category term="侦探委托" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/%E4%BE%A6%E6%8E%A2%E5%A7%94%E6%89%98/"/>
-    
-    
-    <category term="侦探委托" scheme="http://yoursite.com/tags/%E4%BE%A6%E6%8E%A2%E5%A7%94%E6%89%98/"/>
     
   </entry>
   
