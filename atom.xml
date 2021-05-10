@@ -6,7 +6,7 @@
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2021-05-10T11:27:45.891Z</updated>
+  <updated>2021-05-10T11:29:56.939Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2021/05/Crimaster-Delegate-Speed-Decipher-Ans/"/>
     <id>http://yoursite.com/2021/05/Crimaster-Delegate-Speed-Decipher-Ans/</id>
     <published>2021-05-09T12:00:00.000Z</published>
-    <updated>2021-05-10T11:27:45.891Z</updated>
+    <updated>2021-05-10T11:29:56.939Z</updated>
     
     <content type="html"><![CDATA[<h1 id="答案"><a href="#答案" class="headerlink" title="答案"></a>答案</h1><p>春丛认取双蝶</p><h1 id="解析"><a href="#解析" class="headerlink" title="解析"></a>解析</h1><p><font style="color:#D9730D">后续:似乎警队只是抓到了被嫁祸之人，真正的手与被嫁祸人有深仇大恨，身边至亲人的离世与被嫁祸者有关!</font></p><p>本题有多种解法，需一一尝试，因诗词的提示所以其它皆为乱序，无法得出答案。</p><p>正确解题过程：</p><p>内华达州机密区域为51区，因此所需步骤为24即所有白格都要走一遍。天空到地狱，意为自上 而下的顺序，下面有R和E，但是右下角的E只有 一条能单向通向它的路，而且又要求所有格子都走完，所以E必定是起始点或终点(所以把极高处到底端理解为字母表中从A到Z的也可以通过观察这一点排除)，同理左上角的C也能这样确定是起始或终点，所以最终只能是左上角的C到右下角的E。</p><p>提示一为“王，皇后，战车与主教”，意为国际象棋，赤兔是马，马走L型，根据提示需要走24步，从头到尾走完所经历的字母，便是答案。</p><p>(即<font style="color:#D9730D">CHUNCONGRENQUSHUANGQIDIE</font>，根据答案要求的七个汉字加上诗词的提示得到:<font style="color:#D9730D">春丛认取双栖蝶</font>)</p><img src="/assets/images/crimaster/2021/05/20210509-ans-1.png" alt="图片" class="post-image half">]]></content>
     
@@ -35,7 +35,7 @@
     <category term="侦探委托" scheme="http://yoursite.com/categories/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E5%B8%88/%E4%BE%A6%E6%8E%A2%E5%A7%94%E6%89%98/"/>
     
     
-    <category term="侦探委托" scheme="http://yoursite.com/tags/%E4%BE%A6%E6%8E%A2%E5%A7%94%E6%89%98/"/>
+    <category term="侦探委托-解答" scheme="http://yoursite.com/tags/%E4%BE%A6%E6%8E%A2%E5%A7%94%E6%89%98-%E8%A7%A3%E7%AD%94/"/>
     
   </entry>
   
