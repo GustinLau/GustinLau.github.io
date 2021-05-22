@@ -10,10 +10,18 @@
   --border-line-color: rgba(0, 0, 0, 0.05);
   --blockquote-border-color: #dbdbdb;
   --table-border-color: #dbdbdb;
+  --border-color: #dbdbdb;
   --pre-code-bg-color: #f5f5f573;
   --skeleton-bg-color: #f5f5f5;
   --skeleton-flash-color: 0.5;
-  --avatar-border-color: #fff; }
+  --avatar-border-color: #fff;
+  --cover-background-image-url-categories: url(/assets/images/cover/categories.jpeg);
+  --cover-background-image-url-archives: url(/assets/images/cover/archives.jpeg);
+  --cover-title-color: rgb(255, 255, 255);
+  --gentle-wave1: rgba(251, 251, 251, 0.7);
+  --gentle-wave2: rgba(251, 251, 251, 0.5);
+  --gentle-wave3: rgba(251, 251, 251, 0.3);
+  --gentle-wave: #fbfbfb; }
 
 :root.appearance-dark {
   --primary-bg-color: #232323;
@@ -27,10 +35,18 @@
   --top-bar-shadow-color: rgb(18, 18, 18);
   --blockquote-border-color: #aaa;
   --table-border-color: #aaa;
+  --border-color: #aaa;
   --pre-code-bg-color: #ffffff03;
   --skeleton-bg-color: #2b2b2b;
   --skeleton-flash-color: 0.05;
-  --avatar-border-color: rgba(255, 255, 255, 0.05); }
+  --avatar-border-color: rgba(255, 255, 255, 0.05);
+  --cover-background-image-url-categories: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.2)), url(/assets/images/cover/categories.jpeg);
+  --cover-background-image-url-archives: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.2)), url(/assets/images/cover/archives.jpeg);
+  --cover-title-color: rgba(255, 255, 255, 0.8);
+  --gentle-wave1: rgba(35, 35, 35, 0.7);
+  --gentle-wave2: rgba(35, 35, 35, 0.5);
+  --gentle-wave3: rgba(35, 35, 35, 0.3);
+  --gentle-wave: #232323; }
 
 :root.appearance-auto {
   --primary-bg-color: #fbfbfb;
@@ -44,10 +60,18 @@
   --border-line-color: rgba(0, 0, 0, 0.05);
   --blockquote-border-color: #dbdbdb;
   --table-border-color: #dbdbdb;
+  --border-color: #dbdbdb;
   --pre-code-bg-color: #f5f5f573;
   --skeleton-bg-color: #f5f5f5;
   --skeleton-flash-color: 0.5;
-  --avatar-border-color: #fff; }
+  --avatar-border-color: #fff;
+  --cover-background-image-url-categories: url(/assets/images/cover/categories.jpeg);
+  --cover-background-image-url-archives: url(/assets/images/cover/archives.jpeg);
+  --cover-title-color: rgb(255, 255, 255);
+  --gentle-wave1: rgba(251, 251, 251, 0.7);
+  --gentle-wave2: rgba(251, 251, 251, 0.5);
+  --gentle-wave3: rgba(251, 251, 251, 0.3);
+  --gentle-wave: #fbfbfb; }
   @media (prefers-color-scheme: dark) {
     :root.appearance-auto {
       --primary-bg-color: #232323;
@@ -61,15 +85,23 @@
       --top-bar-shadow-color: rgb(18, 18, 18);
       --blockquote-border-color: #aaa;
       --table-border-color: #aaa;
+      --border-color: #aaa;
       --pre-code-bg-color: #ffffff03;
       --skeleton-bg-color: #2b2b2b;
       --skeleton-flash-color: 0.05;
-      --avatar-border-color: rgba(255, 255, 255, 0.05); } }
+      --avatar-border-color: rgba(255, 255, 255, 0.05);
+      --cover-background-image-url-categories: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.2)), url(/assets/images/cover/categories.jpeg);
+      --cover-background-image-url-archives: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.2)), url(/assets/images/cover/archives.jpeg);
+      --cover-title-color: rgba(255, 255, 255, 0.8);
+      --gentle-wave1: rgba(35, 35, 35, 0.7);
+      --gentle-wave2: rgba(35, 35, 35, 0.5);
+      --gentle-wave3: rgba(35, 35, 35, 0.3);
+      --gentle-wave: #232323; } }
 
 :root {
   --backdropFilter: 20px;
   --borderRadius: 6px;
-  --activeColor: #3273dc;
+  --activeColor: $activeColor;
   --boxShadow: 0 6px 30px -10px rgba(0, 0, 0, .1); }
   :root.appearance-dark, :root.appearance-auto, :root.appearance-light {
     background: var(--primary-bg-color); }
